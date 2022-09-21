@@ -1,1 +1,3 @@
 # RoamtestExample
+
+pod install
