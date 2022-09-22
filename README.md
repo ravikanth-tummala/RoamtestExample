@@ -1,5 +1,5 @@
 # RoamtestExample
 
-Change the publishable key & bundle id
-Change userId & subscribe user id
+Change the publishable key & bundle id </br>
+Change userId & subscribe user id </br>
 pod install
