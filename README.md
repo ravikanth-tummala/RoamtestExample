@@ -4,11 +4,11 @@ Change the publishable key & bundle id </br>
 Change userId & subscribe user id </br>
 
 
-Steps :
-Get User( default user in build)
-Toggle
-Subscribe (already subscribe userId:)
-Start Tracking
+Steps :</br>
+Get User( default user in build)</br>
+Toggle</br>
+Subscribe (already subscribe userId:)</br>
+Start Tracking</br>
 
 
 pod install
