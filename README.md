@@ -12,5 +12,7 @@ Toggle</br>
 Subscribe (Added subscribe userId)</br>
 Start Tracking</br>
 
+Once you subscribe to other location, it  will display under the label field.
+
 
 
